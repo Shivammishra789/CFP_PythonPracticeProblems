@@ -12,6 +12,7 @@ randomDice2 = random.randint(1,6)
 print(randomDice2)
 print('The sum of 2 random dice is: ',randomDice1 + randomDice2)
 
+
 #Write a program that reads 5 Random 2 Digit values , then find their
 #sum and the average
 sumOfDice= 0
